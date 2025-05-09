@@ -8,5 +8,5 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/0mk0li" width="1000"/>
+  <img src="https://render.gitanimals.org/farms/0mk0li" width="1000" height="500"/>
 </a>
